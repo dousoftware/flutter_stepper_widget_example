@@ -1,16 +1,6 @@
-# flutter_stepper_widget_example
+Flutter Stepper Widget Örneği
 
-A new Flutter project.
+Flutter Stepper Widget Example
 
-## Getting Started
+![Ekran görüntüsü 2023-11-25 163535](https://github.com/dousoftware/flutter_stepper_widget_example/assets/60797535/99aeda3d-d448-49fb-8003-ed034468c13f)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
